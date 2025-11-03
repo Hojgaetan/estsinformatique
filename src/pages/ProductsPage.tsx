@@ -523,7 +523,7 @@ function ProductCard({ product }: { product: Product }) {
         <div className="flex items-center justify-between">
           <a
             className="text-blue-600 hover:text-blue-700 text-sm"
-            href={`mailto:contact@agsinformatique.sn?subject=Demande d'information: ${encodeURIComponent(product.name)}&body=Bonjour,%20je%20souhaite%20plus%20d'informations%20sur%20le%20produit%20${encodeURIComponent(product.name)}.`}
+            href={`mailto:contact@estsinformatique.sn?subject=Demande d'information: ${encodeURIComponent(product.name)}&body=Bonjour,%20je%20souhaite%20plus%20d'informations%20sur%20le%20produit%20${encodeURIComponent(product.name)}.`}
           >
             Demander des infos
           </a>

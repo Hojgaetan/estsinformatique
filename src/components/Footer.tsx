@@ -33,7 +33,7 @@ export function Footer() {
       >
         <div className="w-full h-[500px] md:h-[600px] lg:h-[700px] rounded-2xl overflow-hidden shadow-xl mx-auto">
           <iframe
-            title="Localisation AGS"
+            title="Localisation ESTS Informatique"
             src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3869.8491137210913!2d-17.4566621!3d14.6822636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2ssn!4v1700000000000!5m2!1sfr!2ssn"
             width="100%"
             height="100%"
@@ -177,7 +177,7 @@ export function Footer() {
                 />
               </a>
               <a
-                href="https://www.instagram.com/agsinformatique/"
+                href="https://www.instagram.com/estsinformatique/"
                 target="_blank"
                 className="bg-gray-800 p-2 rounded-lg hover:bg-blue-400 transition-colors"
                 style={{ backgroundColor: "#FF0069" }}
@@ -189,7 +189,7 @@ export function Footer() {
                 />
               </a>
               <a
-                href="https://www.tiktok.com/@ags.informatique"
+                href="https://www.tiktok.com/@ests.informatique"
                 target="_blank"
                 className="bg-gray-800 p-2 rounded-lg hover:bg-blue-700 transition-colors"
                 style={{ backgroundColor: "#fff" }}
