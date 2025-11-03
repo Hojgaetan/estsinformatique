@@ -159,7 +159,7 @@ export function Footer() {
           {/* Bottom Footer */}
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <div className="text-gray-400 text-sm">
-              © 2025 Africa’s Global Services.
+              © 2025 ESTS Informatique.
               <br /> Tous droits réservés. Fournisseur de solutions numériques.
             </div>
 
