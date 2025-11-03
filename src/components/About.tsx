@@ -38,7 +38,7 @@ export function About() {
             À Propos d'ESTS Informatique
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Chez Africa’s Global Services, nous connectons l’Afrique au monde grâce
+            Chez ESTS Informatique, nous connectons l’Afrique au monde grâce
             à des solutions informatiques sur mesure, performantes et accessibles. 
             Notre ambition : faire du numérique un levier de compétitivité et d’excellence pour chaque entreprise.
           </p>
@@ -56,7 +56,7 @@ export function About() {
             <div className="space-y-4 text-gray-600">
               <p>
                 Fondée avec la vision de rendre les technologies informatiques accessibles à tous, 
-                Africa’s Global Services (ESTS Informatique) s’est progressivement imposée comme
+                ESTS Informatique s’est progressivement imposée comme
                 un acteur majeur du secteur numérique en Afrique.
               </p>
               <p>
