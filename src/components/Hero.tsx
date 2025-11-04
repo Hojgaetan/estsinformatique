@@ -17,11 +17,11 @@ export function Hero() {
 
   const images = [
     "/images/imagebanniere.jpg",
-    "/images/banniere1.jpg",
-    "/images/banniere2.jpg",
+    "/images/banniere5.png",
+    "/images/banniere2.jpeg",
      "/images/banniere3.jfif",
-    "/images/banniere4.JFIF",
-    "/images/banniere5.png"
+    "/images/banniere2.jpeg",
+    "/images/banniere4.JFIF"
 
   ];
   const [currentImage, setCurrentImage] = useState(images[0]);
@@ -82,7 +82,8 @@ export function Hero() {
           >
             {line1}
             <br />
-            <span className="text-blue-600">{line2}</span>
+           <span style={{ color: "#D61F29" }}>{line2}</span>
+
           </motion.h1>
 
           <motion.p
@@ -107,7 +108,7 @@ export function Hero() {
               <div style={{ textAlign: "center" }}>
                 <div
                   style={{
-                    backgroundColor: "#1E40AF", // bleu foncé
+                    backgroundColor: "#f80707ff", // bleu foncé
                     padding: "1rem",
                     borderRadius: "50%",
                     width: "56px",
@@ -133,7 +134,7 @@ export function Hero() {
               <div style={{ textAlign: "center" }}>
                 <div
                   style={{
-                    backgroundColor: "#047857", // vert foncé
+                    backgroundColor: "#0f054eff", // vert foncé
                     padding: "1rem",
                     borderRadius: "50%",
                     width: "56px",
@@ -159,7 +160,7 @@ export function Hero() {
               <div style={{ textAlign: "center" }}>
                 <div
                   style={{
-                    backgroundColor: "#6D28D9", // violet foncé
+                    backgroundColor: "#fce57cff", // violet foncé
                     padding: "1rem",
                     borderRadius: "50%",
                     width: "56px",
