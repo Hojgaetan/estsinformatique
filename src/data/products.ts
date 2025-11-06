@@ -425,7 +425,7 @@ export const PRODUCTS: Product[] = [
      subcategory: "Ordinateurs de bureau",
      brand: "HP",
      tags: ["bureau", "desktop", "ordinateur fixe", "hp", "windows"],
-     image: "./IMG/Gaming I7.NVIDIA4Go.16GoRAM+.23/1.jpg",
+     image: "./IMG/Gaming I7.NVIDIA4Go.16GoRAM+.23/1.webp",
      details:["D'occasion","Noir","HP","500GO","16GO","Core i7- 3.40 Ghz"],
      desc:"HP TOUR ou DESKTOP selon stock\n" +
  "CORE I7 +23 POUCES\n" +
@@ -448,7 +448,7 @@ export const PRODUCTS: Product[] = [
          subcategory: "Laptops",
          brand: "HP",
          tags: ["laptop", "hp", "windows", "i7"],
-         image: "./IMG/ALL IN ONE 27 POUCES TACTILE I7 12ème/1.jpg",
+         image: "./IMG/HP CORE I7 12 EME GEN/1.jpg",
          details: [
              "Neuf",
              "Grise",
@@ -707,7 +707,7 @@ export const PRODUCTS: Product[] = [
          subcategory: "Ordinateurs de bureau",
          brand: "HP",
          tags: ["desktop", "hp", "windows"],
-         image: "./IMG/Hp i7.16go+24+4Go nvidia/1.jpg",
+         image: "./IMG/Hp i7.16go+24+4Go nvidia/1.webp",
          details: [
              "Neuf",
              "Gris Noir",
@@ -736,7 +736,7 @@ export const PRODUCTS: Product[] = [
       subcategory: "Laptops",
       brand: "HP",
       tags: ["laptop", "hp", "windows", "tactile", "x360", "i5", "8go", "256ssd"],
-      image: "./IMG/HP Probook X360 Tactile.11,6 X360.Core i5 8éme.8go.256go/1.jpg",
+      image: "./IMG/HP Probook X360 Tactile.11,6 X360.Core i5 8éme.8go.256go/8.webp",
       details: [
         "Réconditionné",
         "NOIR, GRIS, ROUGE....",
@@ -853,7 +853,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["desktop", "hp", "windows", "i3", "19 pouces", "4go", "500go", "neuf"],
-        image: "./IMG/Hp 6300 core i3+ 19/1.jpg",
+        image: "./IMG/Hp 6300 core i3+ 19/1.webp",
         details: [
             "Neuf",
             "Noir",
@@ -879,7 +879,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["desktop", "hp", "windows", "i5", "19 pouces", "4go", "500go", "neuf"],
-        image: "./IMG/Hp 6300 core I5+19/1.jpg",
+        image: "./IMG/Hp 6300 core I5+19/1.webp",
         details: ["Neuf", "Noir", "HP", "500GO", "4GO", "Intel Core i5 3.0-3.8GHz"],
         desc: "ENSEMBLE COMPLET ET NEUF Hp pro 6300 microtower core I5 avec écran 19 pouces.\n" +
             "Core i5 3GHz à 3,8GHz.\n" +
@@ -899,7 +899,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["desktop", "hp", "windows", "i7", "19 pouces", "8go", "500go", "neuf"],
-        image: "./IMG/Hp 6300 core i7+ 19/1.jpg",
+        image: "./IMG/Hp 6300 core i7+ 19/1.webp",
         details: ["Neuf", "Noir", "HP", "500GO", "8GO", "Intel Core i7 3.0-3.6GHz"],
         desc: "Hp pro 6300 microtower+ écran 19 pouces tout neuf.\n" +
             "Intel Core i7 de 3 Ghz à 3.6ghz - 4 coeurs - Turbo : 3,9Ghz. Cache : 8 Mo.\n" +
@@ -918,7 +918,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["desktop", "hp", "windows", "core2", "20 pouces", "4go", "256ssd", "500go", "neuf"],
-        image: "./IMG/HP 6300 CORE2+ECRAN 20 POUCES NEUFS/1.jpg",
+        image: "./IMG/HP 6300 CORE2+ECRAN 20 POUCES NEUFS/1.webp",
         details: ["Neuf", "Noir", "HP", "256Go SSD ou 500Go SATA", "4Go", "Intel Pentium/Core 2 Duo 2.9GHz"],
         desc: "ENSEMBLE COMPLET ET NEUF Hp pro 6300 - écran 20 pouces\n" +
             "Intel Pentium Core 2, Duo ou R 2.9 ghz. Mémoire 4 go extensible à 16GO.\n" +
@@ -935,7 +935,7 @@ export const PRODUCTS: Product[] = [
       subcategory: "Laptops",
       brand: "Lenovo",
       tags: ["laptop", "lenovo", "windows", "tactile", "14 pouces", "i7", "12ème gen", "16go", "512ssd", "thinkpad"],
-      image: "./IMG/Lenovo T14 Core i7 12 ème.14 Tactile.16Go.512 Go/1.jpg",
+      image: "./IMG/Lenovo T14 Core i7 12 ème.14  Tactile.16Go.512 Go/1.jpg",
       details: ["Réconditionné", "NOIR", "Lenovo", "512 SSD", "16GO", "Intel Core i7-1255U"],
       desc:
         "Lenovo ThinkPad E14 Core i7 12 ème 14 pouces Tactile,16Go.512 Go (RECONDITIONNE USINE AVEC CARTON D'ORIGINE)\n" +
