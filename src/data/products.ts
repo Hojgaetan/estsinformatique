@@ -430,7 +430,7 @@ export const PRODUCTS: Product[] = [
      subcategory: "Ordinateurs de bureau",
      brand: "HP",
      tags: ["bureau", "desktop", "ordinateur fixe", "hp", "windows"],
-     image: "./IMG/Gaming I7.NVIDIA4Go.16GoRAM+.23/1.jpg",
+     image: "./IMG/Gaming I7.NVIDIA4Go.16GoRAM+.23/1.webp",
      details:["D'occasion","Noir","HP","500GO","16GO","Core i7- 3.40 Ghz"],
      desc:"HP TOUR ou DESKTOP selon stock\n" +
  "CORE I7 +23 POUCES\n" +
@@ -453,7 +453,7 @@ export const PRODUCTS: Product[] = [
          subcategory: "Laptops",
          brand: "HP",
          tags: ["laptop", "hp", "windows", "i7"],
-         image: "./IMG/ALL IN ONE 27 POUCES TACTILE I7 12ème/1.jpg",
+         image: "./IMG/HP CORE I7 12 EME GEN/1.jpg",
          details: [
              "Neuf",
              "Grise",
@@ -712,7 +712,7 @@ export const PRODUCTS: Product[] = [
          subcategory: "Ordinateurs de bureau",
          brand: "HP",
          tags: ["desktop", "hp", "windows"],
-         image: "./IMG/Hp i7.16go+24+4Go nvidia/1.jpg",
+         image: "./IMG/Hp i7.16go+24+4Go nvidia/1.webp",
          details: [
              "Neuf",
              "Gris Noir",
@@ -741,7 +741,7 @@ export const PRODUCTS: Product[] = [
       subcategory: "Laptops",
       brand: "HP",
       tags: ["laptop", "hp", "windows", "tactile", "x360", "i5", "8go", "256ssd"],
-      image: "./IMG/HP Probook X360 Tactile.11,6 X360.Core i5 8éme.8go.256go/1.jpg",
+      image: "./IMG/HP Probook X360 Tactile.11,6 X360.Core i5 8éme.8go.256go/1.webp",
       details: [
         "Réconditionné",
         "NOIR, GRIS, ROUGE....",
@@ -858,7 +858,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["desktop", "hp", "windows", "i3", "19 pouces", "4go", "500go", "neuf"],
-        image: "./IMG/Hp 6300 core i3+ 19/1.jpg",
+        image: "./IMG/Hp 6300 core i3+ 19/1.webp",
         details: [
             "Neuf",
             "Noir",
@@ -884,7 +884,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["desktop", "hp", "windows", "i5", "19 pouces", "4go", "500go", "neuf"],
-        image: "./IMG/Hp 6300 core I5+19/1.jpg",
+        image: "./IMG/Hp 6300 core I5+19/3.webp",
         details: ["Neuf", "Noir", "HP", "500GO", "4GO", "Intel Core i5 3.0-3.8GHz"],
         desc: "ENSEMBLE COMPLET ET NEUF Hp pro 6300 microtower core I5 avec écran 19 pouces.\n" +
             "Core i5 3GHz à 3,8GHz.\n" +
@@ -1744,7 +1744,7 @@ export const PRODUCTS: Product[] = [
       "alimentation",
       "stabilisateur",
     ],
-    image: "./IMG/ONDULEUR 725 à 1000 VA/1.jpg",
+    image: "./IMG/Onduleurs 725 à 1000 VA/A (1).png",
     desc:
       "Onduleurs in line interactifs de 725 à 1000 VA.\n\n" +
       "• Type : In Line Interactive.\n" +
