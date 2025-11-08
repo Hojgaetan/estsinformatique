@@ -100,7 +100,12 @@ export const CATEGORIES: CategoryMeta[] = [
 
 export const PRODUCTS: Product[] = [
   // Computers - 8 produits
- 
+
+
+
+
+  // Infrastructure - 1 produit
+
  {
      id: "p-300",
      name: "Ordinateur Acer CORE I5.4GO.250GO.19",
@@ -736,7 +741,7 @@ export const PRODUCTS: Product[] = [
       subcategory: "Laptops",
       brand: "HP",
       tags: ["laptop", "hp", "windows", "tactile", "x360", "i5", "8go", "256ssd"],
-      image: "./IMG/HP Probook X360 Tactile.11,6 X360.Core i5 8éme.8go.256go/8.webp",
+      image: "./IMG/HP Probook X360 Tactile.11,6 X360.Core i5 8éme.8go.256go/1.webp",
       details: [
         "Réconditionné",
         "NOIR, GRIS, ROUGE....",
@@ -879,7 +884,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["desktop", "hp", "windows", "i5", "19 pouces", "4go", "500go", "neuf"],
-        image: "./IMG/Hp 6300 core I5+19/1.webp",
+        image: "./IMG/Hp 6300 core I5+19/3.webp",
         details: ["Neuf", "Noir", "HP", "500GO", "4GO", "Intel Core i5 3.0-3.8GHz"],
         desc: "ENSEMBLE COMPLET ET NEUF Hp pro 6300 microtower core I5 avec écran 19 pouces.\n" +
             "Core i5 3GHz à 3,8GHz.\n" +
@@ -899,7 +904,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["desktop", "hp", "windows", "i7", "19 pouces", "8go", "500go", "neuf"],
-        image: "./IMG/Hp 6300 core i7+ 19/1.webp",
+        image: "./IMG/Hp 6300 core i7+ 19/2.webp",
         details: ["Neuf", "Noir", "HP", "500GO", "8GO", "Intel Core i7 3.0-3.6GHz"],
         desc: "Hp pro 6300 microtower+ écran 19 pouces tout neuf.\n" +
             "Intel Core i7 de 3 Ghz à 3.6ghz - 4 coeurs - Turbo : 3,9Ghz. Cache : 8 Mo.\n" +
@@ -918,7 +923,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["desktop", "hp", "windows", "core2", "20 pouces", "4go", "256ssd", "500go", "neuf"],
-        image: "./IMG/HP 6300 CORE2+ECRAN 20 POUCES NEUFS/1.webp",
+        image: "./IMG/HP 6300 CORE2+ECRAN 20 POUCES NEUFS/2.jpg",
         details: ["Neuf", "Noir", "HP", "256Go SSD ou 500Go SATA", "4Go", "Intel Pentium/Core 2 Duo 2.9GHz"],
         desc: "ENSEMBLE COMPLET ET NEUF Hp pro 6300 - écran 20 pouces\n" +
             "Intel Pentium Core 2, Duo ou R 2.9 ghz. Mémoire 4 go extensible à 16GO.\n" +
@@ -935,7 +940,7 @@ export const PRODUCTS: Product[] = [
       subcategory: "Laptops",
       brand: "Lenovo",
       tags: ["laptop", "lenovo", "windows", "tactile", "14 pouces", "i7", "12ème gen", "16go", "512ssd", "thinkpad"],
-      image: "./IMG/Lenovo T14 Core i7 12 ème.14  Tactile.16Go.512 Go/1.jpg",
+      image: "./IMG/Lenovo T14 Core i7 12 ème.14  Tactile.16Go.512 Go/1.webp",
       details: ["Réconditionné", "NOIR", "Lenovo", "512 SSD", "16GO", "Intel Core i7-1255U"],
       desc:
         "Lenovo ThinkPad E14 Core i7 12 ème 14 pouces Tactile,16Go.512 Go (RECONDITIONNE USINE AVEC CARTON D'ORIGINE)\n" +
@@ -959,7 +964,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Laptops",
         brand: "Lenovo",
         tags: ["laptop", "lenovo", "windows", "yoga", "x360", "tactile", "i5", "8go", "256ssd", "11,6 pouces"],
-        image: "./IMG/LENOVO Yoga X360.11,6 TACTILECore I5 7ème .8Go.256Go/1.jpg",
+        image: "./IMG/LENOVO Yoga X360.11,6TACTILECore I5 ​​7ème .8Go.256Go/2.webp",
         details: [
             "Réconditionné",
             "NOIR, GRIS, ROUGE....",
@@ -988,7 +993,7 @@ export const PRODUCTS: Product[] = [
       subcategory: "Laptops",
       brand: "Lenovo",
       tags: ["laptop", "lenovo", "windows", "yoga", "x360", "tactile", "pentium", "11,6 pouces", "8go", "128ssd"],
-      image: "./IMG/LENOVO YOGA X360 TACTILLE 11 Intel PENTIUM/1.jpg",
+      image: "./IMG/LENOVO YOGA X360 TACTILLE 11 Intel PENTIUM/2.webp",
       details: [
         "Réconditionné",
         "NOIR, GRISE, BLEU, VERT, ROUGE, ROSE, VIOLET.....",
@@ -1015,7 +1020,7 @@ export const PRODUCTS: Product[] = [
       subcategory: "Mini PC",
       brand: "Dell",
       tags: ["mini pc", "desktop", "neuf", "venant", "dell", "hp", "lenovo"],
-      image: "./IMG/MINI PC DELL , HP, LENOVO NEUF OU VENANT/1.jpg",
+      image: "./IMG/MINI PC DELL , HP, LENOVO NEUF OU VENANT/A.png",
       details: [
         "Neuf ou Venants",
         "NOIR",
@@ -1094,7 +1099,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["Ordinateur de bureau", "hp", "dell", "lenovo", "acer", "windows", "core 2 duo", "2go", "80go", "17 pouces", "19 pouces", "desktop"],
-        image: "./IMG/Ordinateur.Intel core2.HP, Dell, lenovo et Acer/1.jpg",
+        image: "./IMG/Ordinateur.Intel core2.HP, Dell, lenovo et Acer/A.png",
         details: [
             "D'occasion",
             "Noir",
@@ -1118,7 +1123,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["desktop", "hp", "windows", "i3", "19 pouces", "4go", "250go", "onduleur", "wifi"],
-        image: "./IMG/ORDINATEUR COMPLET avec ONDULEUR+Wi-Fi/1.jpg",
+        image: "./IMG/ORDINATEUR COMPLET avec ONDULEUR+Wi-Fi/A.png",
         details: [
             "D'occasion",
             "Noir",
@@ -1163,7 +1168,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["desktop", "hp", "windows", "i5", "19 pouces", "4go", "500go", "colobane"],
-        image: "./IMG/Ordinateur core i5/1.jpg",
+        image: "./IMG/Ordinateur core i5/A.png",
         details: ["D'occasion", "NOIR", "HP", "500 Go", "4GO", "Core i5 3.20GHz"],
         desc: "Ordinateurs complets avec écran 19\" en HP LENOVO ET ACER: Core i5 3.20 ghz, 4 go de mémoire Ram , disque dur 500 go . Wifi en option . Windows 10 Pro, Office, Antivirus etc... prêt à l'emploi.\n" +
             "Machines puissantes idéales pour transfert d'argent, multiservices et tous travaux de bureau et d'internet.\n" +
@@ -1179,7 +1184,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Ordinateurs de bureau",
         brand: "HP",
         tags: ["Ordinateur de bureau", "hp", "windows", "core 2 duo", "2go", "160go", "19 pouces", "desktop"],
-        image: "./IMG/Ordinateur Core2/1.jpg",
+        image: "./IMG/Ordinateur Core2/A.png",
         details: ["D'occasion", "Noir", "HP", "160Go", "2Go", "2.6GHz"],
         desc:
             "Ordinateurs complets en LENOVO, Dell et HP selon stock :Pentium Core 2 duo 2,6ghz à 3ghz , 2go de mémoire ram, 160 go de disque dur et écran 19 pouces .\n" +
@@ -1196,7 +1201,7 @@ export const PRODUCTS: Product[] = [
   subcategory: "Ordinateurs de bureau",
   brand: "Dell",
   tags: ["desktop", "dell", "windows", "dual core", "4go", "250go", "19 pouces"],
-  image: "./IMG/Ordinateur Dual core.+19/1.jpg",
+  image: "./IMG/Ordinateur Dual core.+19/A.png",
   details: ["D'occasion", "Noir", "Dell", "250Go", "4GO", "2.6GHz"],
   desc: "Ordinateurs complets en HP et Dell selon stock :Dual Core 2,60 à 3.2 ghz , 4go de mémoire ram, 250 go de disque dur et écran 19 pouces . Machines puissantes idéales pour transfert d'argent, multiservices et tous travaux de bureau et d'internet .TOUS NOS PRODUITS SONT GARANTIS.\n" +
     "Localisation : Gueule‑Tapée, Dakar",
@@ -1210,7 +1215,7 @@ export const PRODUCTS: Product[] = [
       subcategory: "Laptops",
       brand: "Lenovo",
       tags: ["laptop", "lenovo", "hp", "dell", "windows", "8go", "256ssd", "500go", "i3", "i5"],
-      image: "./IMG/Ordinateur portable LENOVO,HP, DELL,/1.jpg",
+      image: "./IMG/Ordinateur portable LENOVO,HP, DELL,/B.png",
       details: [
         "Réconditionné",
         "NOIR/GRIS",
@@ -1235,30 +1240,10 @@ export const PRODUCTS: Product[] = [
       subcategory: "Ordinateurs de bureau",
       brand: "HP",
       tags: ["desktop", "hp", "windows", "wifi", "4go", "250go", "19 pouces"],
-      image: "./IMG/Ordinateur wifi 4go + 19/1.jpg",
+      image: "./IMG/Ordinateur wifi 4go + 19/A.png",
       details: ["D'occasion", "Noir", "HP", "250Go", "4Go", "2.6GHz"],
       desc: "Ordinateurs complets avec écran 19 pouces en lenovo, Dell et HP selon stock : Pentium ,core 2 duo ou Celeron. 2.6 Ghz à 3 Ghz, 4 go de mémoire ram, disque dur 250 go. Wifi en option Windows 10 Pro, office, antivirus etc... prêt à l'emploi .. machines puissantes idéales pour transfèrt d'argent, multiservices et tous travaux de bureau et d'internet. Tous nos produits sont garantis.\n" +
            "Localisation : Gueule‑Tapée, Dakar",
-    },
-    {
-      id: "p-350",
-      name: "ORDINATEURS FIXE CORE i3 , 19\" Pouces",
-      price: 45000,
-      stock: "En stock",
-      category: "computers",
-      subcategory: "Ordinateurs de bureau",
-      brand: "HP",
-      tags: ["desktop", "hp", "windows", "i3", "4go", "250go", "19 pouces", "colobane"],
-      image: "./IMG/ORDINATEURS FIXE CORE i3 , 19 Pouces/1.jpg",
-      details: ["D'occasion", "Noir", "HP", "250Go", "4Go", "Intel Core i3 3.3GHz"],
-      desc:
-        "Ordinateurs complets avec écran 19 pouces en Lenovo et HP selon stock :\n" +
-        "Core i3 3.3 ghz, 4 go de mémoire Ram ,\n" +
-        "Disque Dur 250 go.\n" +
-        "Wifi en option , Windows 10 Pro, Office, Antivirus etc... prêt à l'emploi.\n\n" +
-        "Machines puissantes idéales pour transfère d'argent, multiservices et tous travaux de bureau et d'internet.\n\n" +
-        "Tous nos produits sont garantis\n" +
-        "Localisation : Colobane, Dakar"
     },
     {
       id: "p-351",
@@ -1356,7 +1341,7 @@ export const PRODUCTS: Product[] = [
         subcategory: "Laptops",
         brand: "HP",
         tags: ["laptop", "hp", "windows", "elitebook", "840 g8", "i5", "11ème gen", "16go", "512ssd", "14 pouces", "promo", "colobane"],
-        image: "./IMG/HP ELITEBOOK 840 G8 14” 11éme Gén/1.jpg",
+        image: "./IMG/PROMO🔥 HP ELITEBOOK 840 G8 14” 11éme Gén/1.jpg",
         details: [
             "Réconditionné",
             "GRIS",
@@ -1440,7 +1425,7 @@ export const PRODUCTS: Product[] = [
   subcategory: "Laptops",
   brand: "Dell",
   tags: ["laptop", "dell", "lenovo", "hp", "windows", "x360", "tactile", "11,6 pouces", "pentium", "4go", "8go", "128ssd", "256ssd", "colobane"],
-  image: "./IMG/X360 TACTILE DELL, LENOVO 11,6/1.jpg",
+  image: "./IMG/X360 TACTILE DELL, LENOVO 11.6/1.jpg",
   details: [
     "Réconditionné",
     "NOIR",
@@ -1459,16 +1444,17 @@ export const PRODUCTS: Product[] = [
     "Localisation : Colobane, Dakar",
 },
     // Infrastructure - 1 produit
+
   {
     id: "p-43",
-    name: "Modem Router TP-Link",
-    price: 18000,
+    name: "Switch Cisco 2950 et D- LINK gigabit",
+    price: 50000,
     stock: "En stock",
     category: "infrastructure",
     subcategory: "Routeurs",
     brand: "TP-Link",
-    tags: ["modem", "router", "access point"],
-    image: "./IMG/Modem Router et Access point/1.jfif",
+    tags: ["modem", "switch", "access point"],
+    image: "./IMG/Switch Cisco 2950 et D- LINK gigabit/1.jpg",
 
     details: ["Neuf", "Blanc", "TP-Link"],
     desc:
@@ -1507,7 +1493,7 @@ export const PRODUCTS: Product[] = [
     subcategory: "Imprimantes",
     brand: "RICOH",
     tags: ["RICOH", "laser", "monochrome", "imprimante", "recto-verso"],
-    image: "./IMG/Imprimante Laser Noir RICOH SP 4510DN/1.jpg",
+    image: "./IMG/Imprimante Laser Noir RICOH SP 4510DN/1.webp",
     desc:
       "Imprimante Laser Noir RICOH SP 4510DN performante et rapide.\n\n" +
       "• Vitesse d'impression (noir, A4) : 40 ppm.\n" +
@@ -1758,7 +1744,7 @@ export const PRODUCTS: Product[] = [
       "alimentation",
       "stabilisateur",
     ],
-    image: "./IMG/ONDULEUR 725 à 1000 VA/1.jpg",
+    image: "./IMG/Onduleurs 725 à 1000 VA/A (1).png",
     desc:
       "Onduleurs in line interactifs de 725 à 1000 VA.\n\n" +
       "• Type : In Line Interactive.\n" +
@@ -2155,7 +2141,7 @@ export const PRODUCTS: Product[] = [
       "computer storage",
       "system drive",
     ],
-    image: "./IMG/Disque Dur 1 tera PC interne Seagate Pipeline/1.jpg",
+    image: "./IMG/Disque Dur 1 tera PC interne Seagate Pipeline/1.webp",
     details: ["Réconditionné", "Gris", "Seagate", " 1 Tera"],
     desc: "Disque dur interne Seagate Pipeline 1 Tera.\nConçu pour un fonctionnement 24h/24 et 7j/7.\nOptimisé pour faible consommation d'énergie et fonctionnement silencieux.\nCapable de restituer jusqu'à 20 flux Haute Définition en toute fluidité.\nFiable et performant, idéal pour configurations multimédia et lecteurs de salon.",
   },
@@ -2267,7 +2253,7 @@ export const PRODUCTS: Product[] = [
       "performance",
       "fiable",
     ],
-    image: "./IMG/Câble 24 Brin multimode/1.jpg",
+    image: "./IMG/Câble 24 Brin multimode/1.webp",
     details: ["Neuf"],
     desc: "Câble fibre optique multimode 24 brins adapté aux conduits de câbles.\nStructure serrée interne/externe, âme de fibre insensible aux courbures.\nBande passante de 1500/500 MHz.km.\nGaine extérieure LSOH résistante et marquage métrique séquentiel pour une installation facile et fiable.\nIdéal pour les réseaux de télécommunication et les infrastructures haute performance.",
   },
@@ -2310,55 +2296,7 @@ export const PRODUCTS: Product[] = [
 },
 
   // Applications avec licences et antivirus - 6 produits
-  {
-    id: "p-49",
-    name: "LICENCE MICROSOFT OFFICE 2019",
-    price: 45000,
-    stock: "En stock",
-    category: "applications avec licences et antivirus",
-    subcategory: "Office 19 actif",
-    brand: "Microsoft",
-    tags: ["windows", "licence", "office", "word", "excel", "powerpoint"],
-    image: "./IMG/LICENECE MICROSOFT OFFICE 2019/2.jfif",
-    details: ["Neuf", "Gris", "Microsoft"],
-    desc:
-      "NOUS VENDONS DES LICENCES MICROSOFT OFFICE 2019 (1)POSTE\n" +
-      "AU DELÀ DE CINQ (5) RÉDUCTION POSSIBLE.",
-  },
-  {
-    id: "p-47",
-    name: "Windows 11 Pro Licence activation À Vie",
-    price: 20000,
-    stock: "En stock",
-    category: "applications avec licences et antivirus",
-    subcategory: "Windows 11 pro",
-    brand: "Microsoft",
-    tags: ["windows", "licence"],
-    image: "./IMG/Windows 11 Pro Licence activation À Vie/1.jfif",
-    details: ["Neuf", "Gris, Noir", "Microsoft"],
-    desc:
-      "Produit Windows 11 Pro officiel\n" +
-      "Microsoft Online Update.\n" +
-      "Prend en charge l'allemand, l'anglais, l'italien, le français, le japonais, l'espagnol, le russe, etc.\n" +
-      "Compatible avec les versions 32 et 64 bits\n" +
-      "1 clé pour un seul PC. 1 clé Windows 11 Pro pour un ordinateur.",
-  },
 
-  {
-    id: "p-51",
-    name: "LICENCE WINDOWS 10 PROFESSIONNEL",
-    price: 15000,
-    stock: "En stock",
-    category: "applications avec licences et antivirus",
-    subcategory: "Windows 10 pro",
-    brand: "Microsoft",
-    tags: ["windows", "licence"],
-    image: "./IMG/LICENCE WINDOWS 10 PROFESSIONNEL/1.jfif",
-    details: ["Neuf", "Gris", "Microsoft"],
-    desc:
-      "NOUS VENDONS DES LICENCES WINDOWS 10 PROFESSIONNEL POUR UN (1) POSTE.\n" +
-      "AU DELÀ DE CINQ (5) RÉDUCTION POSSIBLE.",
-  },
 ];
 
 export const PRICE_MIN = 5000;
